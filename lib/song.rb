@@ -29,7 +29,6 @@ end
       self.artist.name = name
     end
   end
-  end
 
 
 
